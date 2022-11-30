@@ -1,1 +1,1 @@
-listing files in 3 directories
+print a file type
