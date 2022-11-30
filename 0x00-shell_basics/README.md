@@ -1,1 +1,1 @@
-deleting a directory
+go back to parent directory
