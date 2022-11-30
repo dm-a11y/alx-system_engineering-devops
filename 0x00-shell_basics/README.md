@@ -1,1 +1,1 @@
-go back to parent directory
+listing files in 3 directories
