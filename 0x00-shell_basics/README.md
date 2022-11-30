@@ -1,1 +1,1 @@
-a script that changes the working directory to home directory
+listing hidden files in long format
