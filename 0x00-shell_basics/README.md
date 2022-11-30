@@ -1,1 +1,1 @@
-list the contents of the working directory
+a script that changes the working directory to home directory
