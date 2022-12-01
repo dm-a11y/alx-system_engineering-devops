@@ -1,1 +1,1 @@
-changing owner
+print effective username
