@@ -1,1 +1,1 @@
-print effective username
+showing all groups the user is in
