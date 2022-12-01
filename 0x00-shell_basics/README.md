@@ -1,1 +1,1 @@
-print a file type
+linking tow files
