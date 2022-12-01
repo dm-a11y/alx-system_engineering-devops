@@ -1,1 +1,1 @@
-showing all groups the user is in
+changing owner
