@@ -15,3 +15,4 @@ a script that takes a list of words as input and prints only words that appear e
 Display lines containing the pattern “root” from the file
 a script the number of lines that contain the pattern “bin” in the file
 a script Display lines containing the pattern “root” and 3 lines after them in the file
+ script Display all the lines in the file that do not contain the pattern
