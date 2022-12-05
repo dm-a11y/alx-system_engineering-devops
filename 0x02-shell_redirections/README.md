@@ -19,3 +19,4 @@ a script Display lines containing the pattern “root” and 3 lines after them 
 a script that displays all the lines of the file that starts with a letter
 a script that replaces all characters from input
 a script that removes all the given letters from input
+a script that reverse its input
