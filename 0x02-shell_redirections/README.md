@@ -8,3 +8,4 @@ listing the specific line of the file
 creating a file with a weird name
 a script that writes into the file
 a script that duplicates the last line of the file
+a script that deletes all the regular .js files
