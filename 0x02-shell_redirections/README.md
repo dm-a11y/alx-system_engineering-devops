@@ -7,3 +7,4 @@ listing the first 10 lines of the files
 listing the specific line of the file
 creating a file with a weird name
 a script that writes into the file
+a script that duplicates the last line of the file
