@@ -10,3 +10,4 @@ a script that prints the result of the addition of a number with a global variab
 a script that prints the arithmetic divisionof two variables.
 a script that prints the result of a variable tothe power of another variable.
 a script that converts a number from base 2 to base 10.
+a script that prints all possible combinations of two letters, except oo.
